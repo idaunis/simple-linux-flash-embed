@@ -1,7 +1,9 @@
 simple-linux-flash-embed
 ========================
 
-A simple linux flash embed
+## Introduction
+
+A simple GTK example to embed flash in standalone Linux applications
 
 ## How to Compile
 
